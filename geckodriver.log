@@ -1,0 +1,10 @@
+1634923847023	geckodriver	INFO	Listening on 127.0.0.1:56467
+1634923847029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35871" "-no-remote" "-profile" "/tmp/rust_mozprofileQoDIGW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634923851618	Marionette	INFO	Listening on port 44759
+1634923851642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634923854361	Marionette	INFO	Stopped listening on port 44759
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
