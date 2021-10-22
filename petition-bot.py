@@ -17,7 +17,7 @@ def main():
     termsInput = '//*[@id="ctl00_cmain_chkAutorizoContacto"]'
     lastButton = '//*[@id="ctl00_cmain_cmdSign"]'
 
-    for i in range(10):
+    for i in range(100):
         driver.get('https://peticaopublica.com.br/psign.aspx?pi=BR120937')
         driver.find_element_by_xpath(nameInput).send_keys('username' + i)
         sleep(1)
