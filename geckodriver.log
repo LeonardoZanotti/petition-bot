@@ -647,3 +647,122 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileSfmIQc/protections.sqlite
+1634993224662	geckodriver	INFO	Listening on 127.0.0.1:34005
+1634993224735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49767" "-no-remote" "-profile" "/tmp/rust_mozprofile4QZNFD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993226642	Marionette	INFO	Listening on port 34275
+1634993226742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634993239119	Marionette	INFO	Stopped listening on port 34275
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993263433	geckodriver	INFO	Listening on 127.0.0.1:40223
+1634993263501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45259" "-no-remote" "-profile" "/tmp/rust_mozprofilek85C3G"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993265420	Marionette	INFO	Listening on port 41661
+1634993265509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634993289670	Marionette	INFO	Stopped listening on port 41661
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/YhkYx1k-yvvb8OonJPmOpoJY/recaptcha__pt_pt.js, line 176: NS_ERROR_NOT_INITIALIZED
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993409894	geckodriver	INFO	Listening on 127.0.0.1:33623
+1634993409962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54677" "-no-remote" "-profile" "/tmp/rust_mozprofileflcNxI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993412157	Marionette	INFO	Listening on port 41341
+1634993412172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993442130	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: disk I/O error
+1634993442261	Marionette	INFO	Stopped listening on port 41341
+1634993457770	geckodriver	INFO	Listening on 127.0.0.1:46547
+1634993457840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47803" "-no-remote" "-profile" "/tmp/rust_mozprofileuAakZu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993459974	Marionette	INFO	Listening on port 36637
+1634993460048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1634993534882	geckodriver	INFO	Listening on 127.0.0.1:37011
+1634993534956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55807" "-no-remote" "-profile" "/tmp/rust_mozprofileD4HqZE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993537190	Marionette	INFO	Listening on port 43207
+1634993537264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1634993560710	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993561049	Marionette	INFO	Stopped listening on port 43207
+1634993562758	geckodriver	INFO	Listening on 127.0.0.1:52345
+1634993562829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50163" "-no-remote" "-profile" "/tmp/rust_mozprofileUArbbZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993564779	Marionette	INFO	Listening on port 46263
+1634993564838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 228: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=64
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993607200	Marionette	INFO	Stopped listening on port 46263
+1634993607438	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1634993616521	geckodriver	INFO	Listening on 127.0.0.1:44319
+1634993616588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39359" "-no-remote" "-profile" "/tmp/rust_mozprofilecAOMCj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993618514	Marionette	INFO	Listening on port 40255
+1634993618602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/YhkYx1k-yvvb8OonJPmOpoJY/recaptcha__en.js, line 696: SecurityError: Permission denied to access property "a-aibl85ycciil" on cross-origin object
+1634993641511	Marionette	INFO	Stopped listening on port 40255
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+1634993656114	geckodriver	INFO	Listening on 127.0.0.1:60445
+1634993656179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60929" "-no-remote" "-profile" "/tmp/rust_mozprofileYYfpr0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993658176	Marionette	INFO	Listening on port 42847
+1634993658195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634993680999	Marionette	INFO	Stopped listening on port 42847
+1634993745110	geckodriver	INFO	Listening on 127.0.0.1:41445
+1634993745181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51167" "-no-remote" "-profile" "/tmp/rust_mozprofileS1vDJc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993747232	Marionette	INFO	Listening on port 40893
+1634993747289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993768966	Marionette	INFO	Stopped listening on port 40893
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993803100	geckodriver	INFO	Listening on 127.0.0.1:38993
+1634993803170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37755" "-no-remote" "-profile" "/tmp/rust_mozprofile8Eoosc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993805324	Marionette	INFO	Listening on port 42505
+1634993805376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634993852532	Marionette	INFO	Stopped listening on port 42505
+1634993852555	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new Error("Error(s) encountered during statement execution: attempt to write a readonly database", "resource://gre/modules/Sqlite.jsm", 894))
+1634993915177	geckodriver	INFO	Listening on 127.0.0.1:58141
+1634993915247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38321" "-no-remote" "-profile" "/tmp/rust_mozprofilemSyiCf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993917245	Marionette	INFO	Listening on port 36025
+1634993917260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634993927815	Marionette	INFO	Stopped listening on port 36025
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39013F,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1634993944418	geckodriver	INFO	Listening on 127.0.0.1:38737
+1634993944487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50501" "-no-remote" "-profile" "/tmp/rust_mozprofilestuKfY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1634993946601	Marionette	INFO	Listening on port 33157
+1634993946694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634993979172	Marionette	INFO	Stopped listening on port 33157
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
