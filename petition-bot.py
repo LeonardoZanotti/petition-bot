@@ -237,7 +237,7 @@ class petitionBot(unittest.TestCase):
         emailInput = '//*[@id="ctl00_cmain_txtEmail"]'
         termsInput = '//*[@id="ctl00_cmain_chkAutorizoContacto"]'
         submitButton = '//*[@id="ctl00_cmain_cmdSign"]'
-        version = 5
+        version = 6
 
         self.driver.get(
             'https://peticaopublica.com.br/psign.aspx?pi=BR120937')

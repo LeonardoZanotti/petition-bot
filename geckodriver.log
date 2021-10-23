@@ -766,3 +766,13 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1634993979172	Marionette	INFO	Stopped listening on port 33157
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1635006364434	geckodriver	INFO	Listening on 127.0.0.1:35287
+1635006364972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43421" "-no-remote" "-profile" "/tmp/rust_mozprofiledFNwXb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1635006369222	Marionette	INFO	Listening on port 35759
+1635006369283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://clickiocdn.com/utr/logst_sa/c2FpZD02MzczNDh+NjM3MzU0fi1+NjM3MzQ4fjYzNzM1NCZzc2lkPX4xJmFjdD1mbmRfb25fcGd+cnRyX3Zhcl9jaHNufnJ0cl92YXJfaW5zdGFsbH50Z2xfc18wfnRnbF9zXzFfZGZwJnVybD1+cGV0aWNhb3B1YmxpY2EuY29tLmJyJnZjbnQ9NSZfZj1fX2x4R19fLnRtcC5sb2dzdF8ydnRpdmhldW5rb3l5MmNl/, line 1: TypeError: __lxG__.tmp.logst_2vtivheunkoyy2ce is not a function
+1635006401641	Marionette	INFO	Stopped listening on port 35759
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
