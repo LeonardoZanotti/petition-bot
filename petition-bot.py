@@ -239,8 +239,7 @@ class petitionBot(unittest.TestCase):
         submitButton = '//*[@id="ctl00_cmain_cmdSign"]'
         version = 6
 
-        self.driver.get(
-            'https://peticaopublica.com.br/psign.aspx?pi=BR120937')
+        self.driver.get('https://peticaopublica.com.br/psign.aspx?pi=BR120937')
 
         self.log('Wait')
         self.wait_between(MIN_RAND, MAX_RAND)
