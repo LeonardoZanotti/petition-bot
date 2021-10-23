@@ -20,8 +20,7 @@ $ python3.7 petition-bot.py
 
 [Installing web drivers](https://www.selenium.dev/documentation/getting_started/installing_browser_drivers/)
 
+[Recaptcha 2 buster bypass](https://github.com/teal33t/captcha_bypass/blob/master/recaptcha_buster_bypass.py)
 
-
-
-
+[Bypass recaptcha 3](https://medium.com/analytics-vidhya/how-to-bypass-recaptcha-v3-with-selenium-python-7e71c1b680fc)
 
